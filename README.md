@@ -3,3 +3,5 @@
 добавили текст
 
 browser weeeeeeeeeeeeeeeeb
+
+local text
