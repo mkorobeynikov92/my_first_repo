@@ -5,9 +5,6 @@
 browser weeeeeeeeeeeeeeeeb
 
 local text
-<<<<<<< HEAD
-jdvslfdhgvi;aher;kgvns;dkfjnbgo;adn;goibvasj;doijgaoijgvoiajgio;jae'rgja'er
-=======
 weiuhfioupeg IUHe
 adg
 aerb
@@ -22,4 +19,3 @@ dfb
 a
 fbns
 dbnfg
->>>>>>> cf39e66 (confliiiiiiiiict)
